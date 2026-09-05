@@ -27,6 +27,87 @@
       "nsfw": false,
       "icon": "https://3asq.online/favicon.ico",
       "entry": "3asq-source.js"
+    },
+    {
+      "id": "mangalek-source",
+      "name": "Manga Lek",
+      "version": "1.0.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://mangalek.com/favicon.ico",
+      "entry": "mangalek-source.js"
+    },
+    {
+      "id": "oresama-source",
+      "name": "Oresama Manga",
+      "version": "1.0.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://oresamamanga.com/favicon.ico",
+      "entry": "oresama-source.js"
+    },
+    {
+      "id": "goldenmanga-source",
+      "name": "Golden Manga",
+      "version": "1.0.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://golden-manga.com/favicon.ico",
+      "entry": "goldenmanga-source.js"
+    },
+    {
+      "id": "azora-source",
+      "name": "Azora Manga",
+      "version": "1.0.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://azoramanga.com/favicon.ico",
+      "entry": "azora-source.js"
+    },
+    {
+      "id": "mangaspark-source",
+      "name": "Manga Spark",
+      "version": "1.0.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://mangaspark.com/favicon.ico",
+      "entry": "mangaspark-source.js"
+    },
+    {
+      "id": "swatmanga-source",
+      "name": "Swat Manga",
+      "version": "1.0.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://swatmanga.net/favicon.ico",
+      "entry": "swatmanga-source.js"
+    },
+    {
+      "id": "mangatx-source",
+      "name": "MangaTx",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "icon": "https://mangatx.com/favicon.ico",
+      "entry": "mangatx-source.js"
+    },
+    {
+      "id": "manhuaplus-source",
+      "name": "ManhuaPlus",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "icon": "https://manhuaplus.org/favicon.ico",
+      "entry": "manhuaplus-source.js"
+    },
+    {
+      "id": "manhwa18-source",
+      "name": "Manhwa18",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": true,
+      "icon": "https://manhwa18.com/favicon.ico",
+      "entry": "manhwa18-source.js"
     }
   ]
 }
