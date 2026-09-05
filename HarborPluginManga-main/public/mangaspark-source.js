@@ -141,7 +141,7 @@ const config = {
   "version": "1.0.0",
   "lang": "ar",
   "nsfw": false,
-  "baseUrl": "https://mangaspark.com",
+  "baseUrl": "https://sparkmanga.net",
   "template": "madara.js"
 };
 const plugin = new MadaraTemplate(config);

@@ -34,7 +34,7 @@
       "version": "1.0.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://mangalek.com/favicon.ico",
+      "icon": "https://mangalik.net/favicon.ico",
       "entry": "mangalek-source.js"
     },
     {
@@ -52,7 +52,7 @@
       "version": "1.0.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://golden-manga.com/favicon.ico",
+      "icon": "https://starzmanga.com/golden-manga/favicon.ico",
       "entry": "goldenmanga-source.js"
     },
     {
@@ -61,7 +61,7 @@
       "version": "1.0.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://azoramanga.com/favicon.ico",
+      "icon": "https://azorafly.com/favicon.ico",
       "entry": "azora-source.js"
     },
     {
@@ -70,7 +70,7 @@
       "version": "1.0.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://mangaspark.com/favicon.ico",
+      "icon": "https://sparkmanga.net/favicon.ico",
       "entry": "mangaspark-source.js"
     },
     {
@@ -79,7 +79,7 @@
       "version": "1.0.0",
       "lang": "ar",
       "nsfw": false,
-      "icon": "https://swatmanga.net/favicon.ico",
+      "icon": "https://meshmanga.com/favicon.ico",
       "entry": "swatmanga-source.js"
     },
     {
@@ -108,6 +108,15 @@
       "nsfw": true,
       "icon": "https://manhwa18.com/favicon.ico",
       "entry": "manhwa18-source.js"
+    },
+    {
+      "id": "starz-source",
+      "name": "Starz Manga",
+      "version": "1.0.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://starzmanga.com/favicon.ico",
+      "entry": "starz-source.js"
     }
   ]
 }
