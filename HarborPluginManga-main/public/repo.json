@@ -1,0 +1,32 @@
+{
+  "name": "Harbor Manga Repository",
+  "plugins": [
+    {
+      "id": "mangadex-source",
+      "name": "MangaDex",
+      "version": "1.0.1",
+      "lang": "en",
+      "nsfw": false,
+      "icon": "https://mangadex.org/favicon.ico",
+      "entry": "mangadex.plugin.js"
+    },
+    {
+      "id": "toonily-source",
+      "name": "Toonily",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": true,
+      "icon": "https://toonily.com/favicon.ico",
+      "entry": "toonily-source.js"
+    },
+    {
+      "id": "3asq-source",
+      "name": "3asq",
+      "version": "1.0.0",
+      "lang": "ar",
+      "nsfw": false,
+      "icon": "https://3asq.online/favicon.ico",
+      "entry": "3asq-source.js"
+    }
+  ]
+}
